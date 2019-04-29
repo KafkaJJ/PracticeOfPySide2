@@ -1,1 +1,1 @@
-# PracticeOfPySide2
+# Practice of PySide2
