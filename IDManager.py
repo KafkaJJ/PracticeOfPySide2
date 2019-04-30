@@ -3,8 +3,7 @@ import os
 import xml.etree.ElementTree as et
 from PySide2 import QtCore, QtGui, QtWidgets
 
-XML_FILE = os.path.join(os.getcwd(), 'kafka_unicode.xml')
-
+XML_FILE = './PracticeOfPySide2/sample.xml'
 
 class IDData(object):
     def __init__(self, params, parent=None, children=[]):
