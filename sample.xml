@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<idmData>
+    <folder name="カテゴリ１" open="False" selected="False">
+        <folder name="category3" open="False" selected="False">
+            <item name='Facebook' selected="False">
+                <account name="Account ID">account1</account>
+                <password name="Password">hoge1</password>
+                <url>facebook.com</url>
+            </item>
+            <item name="Twitter" selected="False">
+                <account name="Account ID">accountTwitter</account>
+                <password name="Password">pwTwitter</password>
+                <url>Twitter.com</url>
+            </item>
+        </folder>
+    </folder>
+    <folder name='category2' open="False" selected="False">
+        <item name="GitHub" selected="False">
+            <account name="Account ID">accountGitHub</account>
+            <password name="Password">pwGitHub</password>
+            <url>GitHub.com</url>
+        </item>
+    </folder>
+</idmData>
